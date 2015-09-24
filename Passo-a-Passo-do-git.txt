@@ -1,0 +1,5 @@
+Passo a Passo do git
+
+Passo 1: iniciar o git , criando um repositório
+Passo 2: Adicionar os arquivos no INDEX
+Passo 3: Criar a primeira versão / commit
