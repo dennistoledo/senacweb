@@ -1,0 +1,47 @@
+body {
+    background-color: #eee; 
+    font-family: 'Roboto', sans-serif;
+}
+
+#cabecalho {
+    border: 1px solid #000;
+    border-radius: 5px;
+    padding: 10px;
+    
+    float: left;
+    width: 100%;
+}
+.logo { 
+    float: left;
+    
+}
+
+.menu {
+    float: left;
+    margin-left: 300px;
+    margin-right: 200px;
+    margin-top: 15px;
+}
+
+.menu-link {
+    display: inline-block;
+    margin-right: 5px;
+}
+.form-pesquisa {
+    fload: left;
+    margin-top: 15px;
+}
+
+h1 {
+    /* propriedade: valor;  */
+    color: red;
+}
+
+
+li {
+    /* tirar os pontos */
+    list-style: none;
+    
+    /* deixar um do lado do outro */
+    display: inline-block;
+}
